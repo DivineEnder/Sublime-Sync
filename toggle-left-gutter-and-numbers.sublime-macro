@@ -1,0 +1,4 @@
+[
+	{ "args": { "setting": "line_numbers" }, "command": "toggle_setting" },
+	{ "args": { "setting": "gutter" }, "command": "toggle_setting" }
+]

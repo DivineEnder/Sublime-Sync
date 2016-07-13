@@ -1,0 +1,20 @@
+[
+	{ "keys": ["super+shift+e"], "command": "run_macro_file", "args": { "file": "Packages/User/4-tabs.sublime-macro"} },
+	{ "keys": ["super+g"], "command": "run_macro_file", "args": { "file": "Packages/User/toggle-left-gutter-and-numbers.sublime-macro" } },
+
+	{ "keys": ["super+e"], "command": "run_macro_file", "args": { "file": "Packages/User/2-spaces.sublime-macro"} },
+	{ "keys": ["super+s"], "command": "save" },
+	{ "keys": ["super+shift+m"], "command": "toggle_tabs" },
+	{ "keys": ["super+m"], "command": "toggle_side_bar" },
+	{ "keys": ["super+k"], "command": "open_file", "args": { "file": "${packages}/User/Default ($platform).sublime-keymap" } },
+	{ "keys": ["super+p"], "command": "open_file", "args": { "file": "${packages}/User/Preferences.sublime-settings" } },
+	{ "keys": ["super+`"], "command": "show_panel", "args": { "panel": "console", "toggle": true } },
+	{ "keys": ["super+shift+l"], "command": "show_overlay", "args": { "overlay": "goto", "text": ":" } },
+	{ "keys": ["control+z"], "command": "undo" },
+	{ "keys": ["control+y"], "command": "redo_or_repeat" },
+
+	{ "keys": ["option+w"], "command": "move", "args": { "by": "lines", "forward": false } },
+	{ "keys": ["option+s"], "command": "move", "args": { "by": "lines", "forward": true } },
+	{ "keys": ["option+a"], "command": "move", "args": { "by": "characters", "forward": false } },
+	{ "keys": ["option+d"], "command": "move", "args": { "by": "characters", "forward": true } }
+]
