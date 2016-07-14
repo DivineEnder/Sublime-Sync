@@ -1,11 +1,10 @@
 {
+	"auto_complete": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"font_size": 12,
 	"gutter": true,
 	"ignored_packages":
 	[
-		"Material Theme",
-		"Terminal",
 		"Vintage"
 	],
 	"line_numbers": true,

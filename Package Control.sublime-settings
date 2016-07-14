@@ -5,20 +5,21 @@
 	],
 	"installed_packages":
 	[
+		"Better CoffeeScript",
 		"Boxy Theme",
 		"Boxy Theme Addon - Linter Theme",
 		"BracketGuard",
 		"BracketHighlighter",
 		"ColorPicker",
+		"Emmet",
 		"Git",
 		"GitGutter",
-		"Material Theme",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
 		"Sublime Bookmarks",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"Terminal"
+		"SublimeLinter-coffee"
 	]
 }
