@@ -1,0 +1,19 @@
+[
+	{ "keys": ["control+alt+h"], "command": "open_file", "args": { "file": "${packages}/User/Default ($platform).sublime-settings" } },
+	{ "keys": ["control+alt+p"], "command": "open_file", "args": { "file": "${packages}/User/Preferences.sublime-keymap" } },
+
+	{ "keys": ["control+alt+j"], "command": "move", "args": { "by": "characters", "forward": false } },
+	{ "keys": ["control+alt+l"], "command": "move", "args": { "by": "characters", "forward": true } },
+	{ "keys": ["control+alt+i"], "command": "move", "args": { "by": "lines", "forward": false } },
+	{ "keys": ["control+alt+k"], "command": "move", "args": { "by": "lines", "forward": true } },
+
+	{ "keys": ["shift+control+alt+j"], "command": "move", "args": { "by": "words", "extend": true, "forward": false } },
+	{ "keys": ["shift+control+alt+l"], "command": "move", "args": { "by": "words", "extend": true, "forward": true } },
+
+	{ "keys": ["control+alt+g"], "command": "run_macro_file", "args": { "file": "Packages/User/toggle-left-gutter-and-numbers.sublime-macro" } },
+	{ "keys": ["control+alt+e"], "command": "run_macro_file", "args": { "file": "Packages/User/2-spaces.sublime-macro" } },
+	{ "keys": ["shift+control+alt+e"], "command": "run_macro_file", "args": { "file": "Packages/User/4-tabs.sublime-macro" } },
+
+	{ "keys": ["control+alt+m"], "command": "toggle-side-bar" },
+	{ "keys": ["shift+control+alt+m"], "command": "toggle_tabs"}
+]

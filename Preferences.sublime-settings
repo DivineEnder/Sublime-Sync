@@ -1,0 +1,25 @@
+{
+	"auto_complete": true,
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+	"font_size": 8,
+	"gutter": true,
+	"ignored_packages":
+	[
+		"Package Control",
+		"Vintage"
+	],
+	"line_numbers": true,
+	"tab_size": 4,
+	"theme": "Boxy Monokai.sublime-theme",
+	"theme_accent_blue": true,
+	"theme_find_panel_font_xs": true,
+	"theme_find_panel_size_xs": true,
+	"theme_icon_button_highlighted": true,
+	"theme_quick_panel_size_md": true,
+	"theme_sidebar_size_xs": true,
+	"theme_tab_line_size_lg": true,
+	"theme_tab_selected_filled": true,
+	"theme_tab_selected_underlined": true,
+	"translate_tabs_to_space": false,
+	"word_wrap": false
+}
